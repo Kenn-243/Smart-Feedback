@@ -69,7 +69,7 @@ The automated feedback processing workflow consists of the following stages:
 
 ### Workflow Overview
 
-![Successful Workflow](workflow.png)
+![Successful Workflow](/public/workflow.png)
 
 ### Processing Pipeline
 
@@ -97,7 +97,7 @@ The automated feedback processing workflow consists of the following stages:
 
 ## RLS Policy
 
-![RLS Policy](rls.png)
+![RLS Policy](/public/rls.png)
 
 The application implements the following security policies:
 
